@@ -1,5 +1,6 @@
 {
-    "git.enabled": true,
+    "git.enabled": false,
     "C_Cpp.errorSquiggles": "Enabled",
-    "gitlens.codeLens.includeSingleLineSymbols": false
+    "gitlens.codeLens.includeSingleLineSymbols": false,
+    "git.enableStatusBarSync": false
 }
